@@ -8282,6 +8282,9 @@
         <mxCell id="o4QCzzU5Mc5ZrCW4xj2e-7" value="Downstream Apps" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="805" y="691" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="o4QCzzU5Mc5ZrCW4xj2e-8" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;pipeline1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
