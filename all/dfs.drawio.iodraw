@@ -8285,8 +8285,8 @@
         <mxCell id="o4QCzzU5Mc5ZrCW4xj2e-8" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;pipeline2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="460" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o4QCzzU5Mc5ZrCW4xj2e-10" value="Adaptive Threshold Opt.&lt;div&gt;Blocking &amp;amp; Clustering&lt;/div&gt;&lt;div&gt;Candidate Gen. &amp;amp; Valid.&lt;/div&gt;&lt;div&gt;Logical Redundancy Removal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="586" width="180" height="70" as="geometry" />
+        <mxCell id="o4QCzzU5Mc5ZrCW4xj2e-10" value="&lt;ul&gt;&lt;li style=&quot;&quot;&gt;Adaptive Threshold Opt.&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Blocking &amp;amp; Clustering&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Candidate Gen. &amp;amp; Valid.&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Logical Redundancy Removal&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="586" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
