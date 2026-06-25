@@ -8035,7 +8035,7 @@
           <mxGeometry x="770" y="479" width="170" height="331" as="geometry" />
         </mxCell>
         <mxCell id="o4QCzzU5Mc5ZrCW4xj2e-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="520" width="150" height="90" as="geometry" />
+          <mxGeometry x="780" y="500" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-82" value="" style="whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="480" width="485" height="330" as="geometry" />
@@ -8226,7 +8226,7 @@
           <mxGeometry x="130" y="585" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-77" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;Minimal Cover of GDDs&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="560" width="130" height="40" as="geometry" />
+          <mxGeometry x="790" y="520" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-78" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;Downstream Apps&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="642" width="130" height="40" as="geometry" />
