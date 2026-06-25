@@ -8231,9 +8231,6 @@
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-77" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;Minimal Cover of GDDs&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="560" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yxNGUgqCzZy-z5h_nrPg-78" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;Downstream Apps&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="642" width="130" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-83" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="250" y="575" as="sourcePoint" />
