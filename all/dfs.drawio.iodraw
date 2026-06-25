@@ -8027,11 +8027,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OLyUOFngkfarP8qLQkqo" name="第 18 页">
-    <mxGraphModel dx="1587" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2240" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yxNGUgqCzZy-z5h_nrPg-51" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="yxNGUgqCzZy-z5h_nrPg-51" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="780" y="510" width="170" height="331" as="geometry" />
         </mxCell>
         <mxCell id="o4QCzzU5Mc5ZrCW4xj2e-6" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
@@ -8284,6 +8284,9 @@
         </mxCell>
         <mxCell id="o4QCzzU5Mc5ZrCW4xj2e-8" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;pipeline2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o4QCzzU5Mc5ZrCW4xj2e-10" value="1. Adaptive Threshold Opt.&lt;div&gt;2. Blocking &amp;amp; Clustering&lt;/div&gt;&lt;div&gt;3. Candidate Gen. &amp;amp; Valid.&lt;/div&gt;&lt;div&gt;4. Logical Redundancy Removal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="747" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
